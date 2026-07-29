@@ -5,6 +5,7 @@
 ### Former Teacher • Software Engineer • Forever Building
 
 </div>
+
 ---
 
 ## 🚀 What You'll Find Here

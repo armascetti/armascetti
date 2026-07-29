@@ -5,21 +5,7 @@
 ### Former Teacher • Software Engineer • Forever Building
 
 </div>
-
 ---
-
-## 💭 A Little About Me
-
-I didn't take the traditional path into software engineering, and I wouldn't change it.
-
-Before writing code, I spent years helping students learn, solve problems, and believe in themselves. Today, I bring that same curiosity and persistence into every project I build.
-
-I love taking an idea from a blank screen to a finished application. Whether it's designing the user experience, connecting APIs, debugging tricky problems, or learning a completely new concept, building software is what excites me.
-
-For me, every project is another opportunity to learn something I didn't know yesterday.
-
----
-
 ## 🚀 What You'll Find Here
 
 * 💻 Full-stack applications

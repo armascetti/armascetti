@@ -32,19 +32,6 @@ while True:
 
 > *"Build. Break. Learn. Repeat."*
 
----
-
-## ☕ Beyond the Code
-
-When I'm not programming, you'll usually find me spending time with my family, staying active, or brainstorming the next project I want to build.
-
-I genuinely enjoy learning, and software gives me endless opportunities to keep doing exactly that.
-
----
-
 <div align="center">
-
-**Thanks for stopping by.**
-I'm always building something new.
 
 </div>

@@ -7,15 +7,14 @@
 </div>
 
 ---
+### Hi, I'm Mandy 👋
+Former Teacher → Software Engineer
 
-## 🚀 What You'll Find Here
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armascetti&layout=compact&theme=tokyonight&hide_border=true)
 
-* 💻 Full-stack applications
-* 🧩 Projects built to solve real problems
-* 🌱 Experiments while learning new technologies
-* 📚 Code that reflects continuous growth
-* ⚡ A little curiosity in every repository
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=armascetti&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Skills](https://skillicons.dev/icons?i=js,python,css,html,react,git)
 ---
 
 ## 💡 My Philosophy

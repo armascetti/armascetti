@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mandy
 
-### Former Teacher • Software Engineer • Forever Building
+### Former Teacher • Software Engineer
 
 </div>
 
